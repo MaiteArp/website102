@@ -44,10 +44,12 @@ main {
 }
 
 section {
+    
     padding-bottom: 10px;
 }
 
 footer {
+    opacity: 0.5;
     text-align: center;
     font-size: small;  
     padding-bottom: 20px;
