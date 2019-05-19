@@ -16,6 +16,10 @@ header {
     background-color: gray; 
 }
 
+h3 {
+    text-align: center;
+    color: rgba(48, 174, 179);
+}
 nav {
     font-size: 20px;
     justify-content: space-evenly;
